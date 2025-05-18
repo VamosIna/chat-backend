@@ -1,0 +1,20 @@
+[
+  {
+    "id": "001",
+    "username": "yoppie",
+    "password": "pass123",
+    "room": "room-alpha"
+  },
+  {
+    "id": "002",
+    "username": "lutfan",
+    "password": "pass456",
+    "room": "room-alpha"
+  },
+  {
+    "id": "003",
+    "username": "nadia",
+    "password": "pass789",
+    "room": "room-beta"
+  }
+]
